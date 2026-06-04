@@ -24,4 +24,4 @@ Scrape laptop data from Amazon.in and store it in a timestamped CSV file.
 The scraped data is stored in a CSV file with a timestamped filename.
 
 Example:
-amazon_laptops_20260604_194500.csv
+amazon_laptops_20260604_141813.csv
